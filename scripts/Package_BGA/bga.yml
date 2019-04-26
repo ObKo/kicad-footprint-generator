@@ -280,6 +280,58 @@ Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4:
    mask_margin: 0.05
    layout_x: 4
    layout_y: 7
-
-
-
+BGA-196_15.0x15.0mm_Layout14x14_P1.0mm_Ball0.5mm_Pad0.4mm_NSMD:
+  description: "BGA-196, 14x14 grid, 15x15mm package, pitch 1.0mm; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf"
+  pkg_width: 15.0
+  pkg_height: 15.0
+  pitch: 1.0
+  pad_diameter: 0.4
+  mask_margin: 0.05
+  layout_x: 14
+  layout_y: 14
+BGA-196_8.0x8.0mm_Layout14x14_P0.5mm_Ball0.3mm_Pad0.275mm_NSMD:
+  description: "BGA-196, 14x14 grid, 8x8mm package, pitch 0.5mm; https://www.xilinx.com/support/documentation/package_specs/pk400_CPG196.pdf"
+  pkg_width: 8.0
+  pkg_height: 8.0
+  pitch: 0.5
+  pad_diameter: 0.275
+  mask_margin: 0.05
+  layout_x: 14
+  layout_y: 14
+BGA-225_13.0x13.0mm_Layout15x15_P0.8mm_Ball0.4mm_Pad0.4mm_NSMD:
+  description: "BGA-225, 15x15 grid, 13x13mm package, pitch 0.8mm; https://www.xilinx.com/support/documentation/package_specs/pk380_CS_G_225.pdf"
+  pkg_width: 13.0
+  pkg_height: 13.0
+  pitch: 0.8
+  pad_diameter: 0.4
+  mask_margin: 0.05
+  layout_x: 15
+  layout_y: 15
+BGA-324_15.0x15.0mm_Layout18x18_P0.8mm_Ball0.45mm_Pad0.4mm_NSMD:
+  description: "BGA-324, 18x18 grid, 15x15mm package, pitch 0.8mm; https://www.xilinx.com/support/documentation/package_specs/pk381_CSG324.pdf"
+  pkg_width: 15.0
+  pkg_height: 15.0
+  pitch: 0.8
+  pad_diameter: 0.4
+  mask_margin: 0.05
+  layout_x: 18
+  layout_y: 18
+BGA-484_23.0x23.0mm_Layout22x22_P1.0mm_Ball0.6mm_Pad0.5mm_NSMD:
+  description: "BGA-484, 22x22 grid, 23x23mm package, pitch 1.0mm; https://www.xilinx.com/support/documentation/package_specs/fg484.pdf"
+  pkg_width: 23.0
+  pkg_height: 23.0
+  pitch: 1.0
+  pad_diameter: 0.5
+  mask_margin: 0.05
+  layout_x: 22
+  layout_y: 22
+BGA-676_27.0x27.0mm_Layout26x26_P1.0mm_Ball0.6mm_Pad0.5mm_NSMD:
+  description: "BGA-676, 26x26 grid, 27x27mm package, pitch 1.0mm; https://www.xilinx.com/support/documentation/package_specs/fg676.pdf"
+  pkg_width: 27.0
+  pkg_height: 27.0
+  pitch: 1.0
+  pad_diameter: 0.5
+  mask_margin: 0.05
+  layout_x: 26
+  layout_y: 26
+  
